@@ -1,0 +1,46 @@
+table{
+    border-collapse: collapse;
+}
+
+input{
+    border-radius: 35px;
+    font-size: 12px;
+    border-style: solid;
+}
+.new{
+    background-color:  rgb(71, 223, 60);
+    border-radius: 35px;
+    border-style: solid;
+}
+.Guardar{
+    border-radius: 35px;
+    border-style: solid;
+    background-color:rgb(71, 223, 60);   
+    margin-bottom:2px;
+
+}
+.Cancelar{
+    border-radius: 35px;
+    border-style: solid;
+    background-color: red;  
+    margin-bottom:2px;
+}
+.edit{
+    background-color: blue;
+}
+.delete{
+    background-color: red;
+}
+.form-register{
+    margin: auto;
+    padding: 30;
+    box-sizing: border-box;
+    width: 400px;
+    margin-top: 100px;
+    
+}
+.control{
+    padding:10px;
+    border-radius:4;
+    margin-bottom:10px;
+}
